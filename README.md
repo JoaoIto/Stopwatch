@@ -1,4 +1,4 @@
-# Stopwatch ⏰
+# [Stopwatch ⏰](https://joaoito.github.io/Stopwatch/)
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
